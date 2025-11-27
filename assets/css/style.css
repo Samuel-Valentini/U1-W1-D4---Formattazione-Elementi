@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 1.5rem;
+  background-image: url(../img/sfondo.png);
+  background-size: 150%;
+  background-position: 70% 100%;
+  font-family: Poppins;
+  margin-inline: auto;
+}
+
+header {
+  background: #009fc5;
+  background: linear-gradient(180deg, rgba(0, 159, 197, 1) 0%, rgba(2, 109, 136, 1) 100%);
+  padding: 2rem;
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-top: 0;
+}

@@ -139,6 +139,38 @@ iframe {
   min-height: 250px;
   height: auto;
   border-radius: 20px;
+  margin-bottom: 2em;
+}
+
+section {
+  background-color: #e3e2e4;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+section h2 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  font-weight: 550;
+  padding-top: 1em;
+  padding-bottom: 2em;
+}
+
+form {
+  width: 100%;
+  padding-bottom: 1em;
+}
+
+button {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: 550;
+  color: white;
+  background-color: #3c6ac9;
+  border: 0px;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
 }
 
 .maiuschead {
@@ -155,6 +187,10 @@ iframe {
 .author {
   color: #a0a1a1;
   padding-bottom: 1em;
+}
+
+.pairrow {
+  background-color: #f2f2f2;
 }
 
 #logo {
